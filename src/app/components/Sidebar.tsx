@@ -17,7 +17,7 @@ const Sidebar = () => {
     <div className="p-3">
         <div className=" hidden lg:fixed lg:inset-y-0 lg:flex lg:w-72 lg:flex-col">
             <div className=" flex grow flex-col gapy-y-5 overflow-auto bg-white px-6 pb-4 border-r-2 ">sidebar</div>
-            <div>test 1234</div>
+            <div>test 1234 d</div>
         </div>
     </div>
   )
